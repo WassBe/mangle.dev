@@ -1,5 +1,5 @@
 
-![logo](https://i.imgur.com/J3daAU9.png)
+![logo](https://i.imgur.com/xkr6uC3.png)
 
 Mangle.dev is a lightweight, cross-language inter-process communication (IPC) framework that enables seamless data exchange between programs written in different programming languages.
 
