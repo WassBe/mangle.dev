@@ -17,26 +17,26 @@ At its core, Mangle.dev works by:
 
 ![illustration](https://i.imgur.com/hMNTx76.png)
 
-## Key Features
+# Key Features
 
-### Simple API
+## Simple API
 Just two classes to learn:
 - **InputManager**: For sending requests and receiving responses
 - **OutputManager**: For receiving requests and sending responses
 
-### Type Preservation
+## Type Preservation
 Data types are preserved across language boundaries. Send an integer from Python, receive an integer in Go. Send an array from JavaScript, receive an array in C#.
 
-### No Dependencies (for most languages)
+## No Dependencies (for most languages)
 Python, JavaScript, Ruby, and Go implementations have zero external dependencies. They use only standard library features.
 
-### Language Agnostic Protocol
+## Language Agnostic Protocol
 Uses JSON for data serialization, making it universally compatible and easy to debug.
 
-### Error Handling
+## Error Handling
 Built-in error handling with detailed error messages and warnings to help diagnose issues.
 
-## Use Cases
+# Use Cases
 
 Mangle.dev is ideal for:
 
