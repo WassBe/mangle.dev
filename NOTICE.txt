@@ -1,0 +1,41 @@
+Mangle.dev - Cross-language IPC Library
+Copyright (c) 2026 Wass B.
+
+This software includes the following third-party components:
+
+================================================================================
+
+cJSON
+Copyright (c) 2009-2017 Dave Gamble and cJSON contributors
+License: MIT
+Used in: C and C++ implementations
+Source: https://github.com/DaveGamble/cJSON
+
+--------------------------------------------------------------------------------
+
+Gson
+Copyright 2008 Google Inc.
+License: Apache License 2.0
+Used in: Java implementation
+Source: https://github.com/google/gson
+
+--------------------------------------------------------------------------------
+
+serde_json
+Copyright (c) 2017 Serde Developers
+License: MIT OR Apache-2.0 (dual licensed)
+Used in: Rust implementation
+Source: https://github.com/serde-rs/json
+
+--------------------------------------------------------------------------------
+
+lazy_static
+Copyright (c) 2014-2016 Marvin Löbel
+License: MIT OR Apache-2.0 (dual licensed)
+Used in: Rust implementation
+Source: https://github.com/rust-lang-nursery/lazy-static.rs
+
+================================================================================
+
+For the full license text of each component, please refer to their respective
+source repositories or the licenses/ directory in this distribution.
