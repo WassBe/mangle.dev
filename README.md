@@ -1,10 +1,12 @@
 
-![logo](https://i.imgur.com/lNJQCyY.png)
+![logo](https://i.imgur.com/J3daAU9.png)
 
 Mangle.dev is a lightweight, cross-language inter-process communication (IPC) framework that enables seamless data exchange between programs written in different programming languages.
 
 
 > Note that Mangle.dev is currently in Early Access, which means there might be some bugs and errors in either the package or the documentation.
+
+> In this repository, you will find the latest stable version of Mangle.dev (mangledotdev) for each languages.
 
 ## What does Mangle.dev do?
 
