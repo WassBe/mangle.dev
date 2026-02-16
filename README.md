@@ -1,6 +1,14 @@
 
 ![logo](https://i.imgur.com/xkr6uC3.png)
 
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![npm](https://img.shields.io/npm/v/mangledotdev)](https://www.npmjs.com/package/mangledotdev)
+[![PyPI](https://img.shields.io/pypi/v/mangledotdev)](https://pypi.org/project/mangledotdev/)
+[![gem](https://img.shields.io/gem/v/mangledotdev)](https://rubygems.org/gems/mangledotdev)
+![Languages](https://img.shields.io/badge/languages-9-brightgreen.svg)
+![GitHub issues](https://img.shields.io/github/issues/WassBe/mangle.dev)
+![GitHub stars](https://img.shields.io/github/stars/WassBe/mangle.dev)
+
 Mangle.dev is a lightweight, cross-language inter-process communication (IPC) framework that enables seamless data exchange between programs written in different programming languages.
 
 
