@@ -56,3 +56,13 @@ Mangle.dev is ideal for:
 - **Polyglot architectures** - Use the best language for each task
 - **Testing** - Test components in isolation across language boundaries
 - **Prototyping** - Quickly prototype with the language you're most comfortable with
+
+# Contributing
+
+Contributions welcome! See [CONTRIBUTING.md](CONTRIBUTING.md)
+
+- 🐛 Report bugs
+- 💡 Suggest features  
+- 🔧 Submit PRs
+- 📖 Improve docs
+- 🌍 Add language support
