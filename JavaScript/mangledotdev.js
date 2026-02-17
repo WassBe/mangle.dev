@@ -1,5 +1,4 @@
 const { spawnSync } = require('child_process');
-const crypto = require('crypto');
 const fs = require('fs');
 const path = require('path');
 
@@ -23,7 +22,9 @@ class InputManager {
      * @returns {string} Unique key
      */
     static #genKey() {
-        return crypto.randomBytes(16).toString('hex');
+        return [...Array(32)]
+        .map(() => (Math.random() * 256 | 0).toString(16).padStart(2, '0'))
+        .join('');
     }
 
     /**
