@@ -9,6 +9,8 @@
 ![GitHub issues](https://img.shields.io/github/issues/WassBe/mangle.dev)
 ![GitHub stars](https://img.shields.io/github/stars/WassBe/mangle.dev)
 
+[Website](https://www.mangle.dev) - [Releases](https://release.mangle.dev) - [Documentation](https://wass-b.gitbook.io/mangle.dev)
+
 Mangle.dev is a lightweight, cross-language inter-process communication (IPC) framework that enables seamless data exchange between programs written in different programming languages.
 
 
@@ -24,8 +26,6 @@ At its core, Mangle.dev works by:
 1. **Sending data** from a caller program to a receiver program
 2. **Receiving the data** in the receiver program
 3. **Sending a response** back to the caller
-
-![illustration](https://i.imgur.com/hMNTx76.png)
 
 # Key Features
 
